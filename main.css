@@ -15,10 +15,12 @@
     color: red;
 }
 
+.block-second {
+    display: flex;
+    justify-content: center;
+}
 
-.foo {
-    color: red;
-    display: inline-block;
-    padding: 10px;
-    border: 1px solid red;
+.my-selector {
+    display: flex;
+    flex-direction: column;
 }
